@@ -1,5 +1,7 @@
 # Global Earthquake Data Engineering Project with Microsoft Fabric
 
+This project demonstrates a **complete end-to-end data engineering and analytics pipeline** using Microsoft Fabric. It integrates real-time data from the **USGS Earthquake API**, processes it with Spark & Delta Lake following a **Medallion Architecture**, orchestrates ETL workflows with **Data Factory**, and builds rich interactive dashboards with **Power BI** using **Direct Lake semantic models**.
+
 ---
 
 ## 🚀 Project Highlights
